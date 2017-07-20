@@ -1,4 +1,4 @@
-#define led RED_LED
+#define led 4
 boolean flag1,flag2;
 int val;
 void setup()
